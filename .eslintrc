@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    },
+  },
+  "plugins": ["transform-object-rest-operator"]
+}
